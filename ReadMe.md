@@ -7,3 +7,5 @@
 3. cd angular-course / npm start
 
 4. ![](./Images/1.png)
+
+5. ![](./Images/2.png)
